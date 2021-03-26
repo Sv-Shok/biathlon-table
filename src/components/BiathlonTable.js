@@ -87,7 +87,7 @@ const BiathlonTable = () => {
             ? statePlayers.map((player, index) => (
                 <TableItem player={player} idx={index} key={player.winPlace} />
               ))
-            : null}
+            : <tr><td>Loading...</td></tr>}
         </tbody>
       </table>
       <div>
