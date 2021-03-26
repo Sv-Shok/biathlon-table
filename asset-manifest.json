@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/biathlon-table/static/css/main.8e77fc0d.chunk.css",
+    "main.js": "/biathlon-table/static/js/main.8a42766d.chunk.js",
+    "main.js.map": "/biathlon-table/static/js/main.8a42766d.chunk.js.map",
+    "runtime-main.js": "/biathlon-table/static/js/runtime-main.9508f9b1.js",
+    "runtime-main.js.map": "/biathlon-table/static/js/runtime-main.9508f9b1.js.map",
+    "static/js/2.d963fbf7.chunk.js": "/biathlon-table/static/js/2.d963fbf7.chunk.js",
+    "static/js/2.d963fbf7.chunk.js.map": "/biathlon-table/static/js/2.d963fbf7.chunk.js.map",
+    "index.html": "/biathlon-table/index.html",
+    "static/css/main.8e77fc0d.chunk.css.map": "/biathlon-table/static/css/main.8e77fc0d.chunk.css.map",
+    "static/js/2.d963fbf7.chunk.js.LICENSE.txt": "/biathlon-table/static/js/2.d963fbf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9508f9b1.js",
+    "static/js/2.d963fbf7.chunk.js",
+    "static/css/main.8e77fc0d.chunk.css",
+    "static/js/main.8a42766d.chunk.js"
+  ]
+}
